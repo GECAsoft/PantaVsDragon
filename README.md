@@ -4,7 +4,7 @@ A Free Multi-platform Game
 
 Version 1.0
 
-A DragonFly remake by 'The FARM Team' (Futublog, Princemegahit & GECA soft)
+A Atari 2600 Dragonfire remake by 'The FARM Team' (Futublog, Princemegahit & GECA soft)
 
 http://futu-art.blogspot.com
 
